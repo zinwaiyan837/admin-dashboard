@@ -128,6 +128,9 @@ color: white;
     border-radius: 50%;
     width: 100px;
 }
+.page-link{
+    display:inline-block !important;
+}
 @media screen and (max-width:780px) {
     .sidebar{
         position:fixed;
